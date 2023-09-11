@@ -10,6 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MIHIRs01&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MIHIRs01&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
